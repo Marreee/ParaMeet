@@ -8,7 +8,7 @@ Makefile.in
 /ylwrap
 Director/Fast
 # http://www.gnu.org/software/autoconf
-
+Cash/Editor
 /autom4te.cache
 /autoscan.log
 /autoscan-*.log
